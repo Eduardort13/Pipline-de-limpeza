@@ -1,4 +1,6 @@
 Análise de Vendas e Pipeline de Limpeza (200k+ registros)
+
+
 Este projeto demonstra um fluxo completo de ETL (Extract, Transform, Load) e análise exploratória utilizando Python e a biblioteca Pandas. O foco principal foi transformar um dataset bruto de 200.000 linhas em uma base confiável para suporte à decisão.
 
 🚀 Funcionalidades do Projeto
